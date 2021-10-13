@@ -1,5 +1,5 @@
 # Mabinogi-MA-Bot
-Yes it's what you think. I wrote a bot to fully automate running Martials Arts Competition between 6 characters on a multi client setup. I wrote this bot back in 2018
+Yes it's what you think. I wrote a bot to fully automate running Martials Arts Competition between 6 characters on a multi client setup. I wrote this bot back in 2018 using AutoHotkey
 
 So this is how it works... I boot up 6 clients. I had 2 level 10k+ characters.
 
